@@ -2,3 +2,6 @@ group_id:
     type: str
     help: What is the GroupId?
 
+artifact_id:
+    type: str
+    help: What is the ArtifactId?
