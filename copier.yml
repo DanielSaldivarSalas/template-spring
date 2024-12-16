@@ -1,3 +1,7 @@
+repo_name:
+    type: str 
+    help: What is the repo name?
+
 group_id:
     type: str
     help: What is the GroupId?
